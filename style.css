@@ -1,0 +1,56 @@
+body
+{
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+input
+{
+    background: grey;
+}
+#AboutMe {
+    color: azure;
+    bottom: 0;
+    opacity: 1;
+    background: linear-gradient( #a6808c 0%, #706677 100%);
+    display: table;
+    width: 100%;
+    height: 600px;
+    z-index: 6;
+}
+#name {
+    text-align: center;
+    
+}
